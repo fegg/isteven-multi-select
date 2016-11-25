@@ -8,9 +8,7 @@
     "ignore"    : [
         ".git",
         ".gitignore",
-        "bower.json",
         "CHANGELOG.md",
-        "package.json",
         "README.md",        
         "screenshot.png",
         "/doc"
