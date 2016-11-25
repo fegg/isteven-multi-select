@@ -1,14 +1,14 @@
 {
-    "name": "isteven-angular-multiselect",
-    "version": "v4.0.0",
-    "description": "A multi select dropdown directive for AngularJS",
+    "name": "isteven-select-edited-ck",
+    "version": "v1.0.0",
+    "description": "A multi select dropdown created by isteven",
     "main": [
         "isteven-multi-select.js",
         "isteven-multi-select.css"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/isteven/angular-multi-select.git"
+        "url": "https://github.com/z57909160/isteven-multi-select.git"
     },
     "keywords": [
         "angular"
